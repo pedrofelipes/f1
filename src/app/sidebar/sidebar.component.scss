@@ -1,0 +1,18 @@
+.bg-dark {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    height: 100%;
+    z-index: 1000;
+    transition: transform 0.3s ease;
+    background-color: rgb(24, 23, 23) !important;
+  }
+  
+  .bg-dark.text-white {
+    transform: translateX(0); 
+  }
+  
+  .bg-dark:not(.text-white) {
+    transform: translateX(-250px); 
+  }

@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
   templateUrl: './footer.component.html',
   styleUrl: './footer.component.scss'
 })
-export class FooterComponent {}
+export class FooterComponent {
+
+siteName = 'FormulaNews' ;
+slogan = 'As notícias mais atualizadas de Formula 1!'
+direitos = 'Todos os direitos reservados.'
+}

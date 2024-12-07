@@ -1,3 +1,4 @@
-<app-header></app-header>
+<app-header [title]="title" (toggleSidebar)="toggleSidebar()"></app-header>
+<app-sidebar [isSidebarOpen]="isSidebarOpen"></app-sidebar>
 <app-body></app-body>
 <app-footer></app-footer>
