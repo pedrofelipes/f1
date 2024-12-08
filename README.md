@@ -1,27 +1,57 @@
-# F1
+🏎️ Projeto Single-Page Website - Fórmula 1
+Integrantes:
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
+Paulo Ricardo Estevam Batalha
+Pedro Felipe Azevedo de Melo
 
-## Development server
+📋 Requisitos
+Para rodar o projeto localmente, é necessário ter instalado:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Node.js
+Angular CLI (versão 18.2.12)
 
-## Code scaffolding
+📝 Sobre o Projeto
+Este projeto é um exercício prático de criação de um Single-Page Website (SPA) utilizando Angular.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+🌟 Tema: Fórmula 1
+O site aborda informações relacionadas a:
 
-## Build
+Pilotos favoritos
+Carros utilizados pelos pilotos
+Equipes respectivas
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+A escolha do tema foi baseada em nosso interesse em comum pela Fórmula 1.
 
-## Running unit tests
+🚀 Como Executar o Projeto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+1-Clone o repositório:
 
-## Running end-to-end tests
+git clone <URL_DO_REPOSITORIO>
+cd <PASTA_DO_PROJETO>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2-Instale as dependências:
 
-## Further help
+npm install
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+3-Execute o Projeto:
+
+ng serve
+
+4-Acesse no navegador: Abra o navegador e acesse http://localhost:4200.
+
+🛠️ Tecnologias Utilizadas
+Angular - Framework principal para desenvolvimento do SPA.
+Node.js - Ambiente de execução para JavaScript.
+
+
+🧑‍💻 Aprendizados
+Este projeto permitiu que aprimorássemos as seguintes habilidades:
+
+Uso prático do Angular para desenvolvimento de SPAs.
+Organização e estruturação de componentes.
+Configuração e execução de ambientes com Node.js.
+Trabalho em equipe na criação de um projeto.
+
+
+📄 Licença
+Este projeto foi desenvolvido como exercício acadêmico e não possui fins comerciais.
