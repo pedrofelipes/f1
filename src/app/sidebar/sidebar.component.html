@@ -1,8 +1,10 @@
 <div class="d-flex" [ngClass]="{'bg-dark': true, 'text-white': isSidebarOpen}">
     <div class="bg-dark text-white p-3" style="width: 250px;">
       <h4>
+        <a class="navbar-brand text-white" href="#" (click)="onToggleSidebar()">
         <img src="F1-logo.png" style="width: 30px; height: auto; margin-right: 8px;">
         FormulaNews
+        </a>
       </h4>
       
       <ul class="nav flex-column">
